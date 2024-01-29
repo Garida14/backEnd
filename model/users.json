@@ -1,0 +1,10 @@
+[
+  {
+    "username": "mockUser",
+    "email": "mockEmail",
+    "password": "mockPassword",
+    "followers": "100",
+    "following": "101",
+    "img": "mock"
+  }
+]
