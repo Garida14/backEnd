@@ -6,5 +6,21 @@
     "followers": "100",
     "following": "101",
     "img": "mock"
+  },
+  {
+    "username": "Garid",
+    "email": "inyourrdreamm",
+    "password": "mockPassword",
+    "followers": "200",
+    "following": "201",
+    "img": "mock"
+  },
+  {
+    "username": "admin",
+    "email": "admin@gmail.com",
+    "password": "mockPassword",
+    "followers": "300",
+    "following": "301",
+    "img": "mock"
   }
 ]
